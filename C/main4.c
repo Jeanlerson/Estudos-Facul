@@ -1,9 +1,7 @@
 #include <stdio.h>
-#include <locale.h>
 
 int main() {
-    setlocale(LC_ALL, "Portuguese");
-
+// atualização
     int x, y;
     long int res = 1;
 
